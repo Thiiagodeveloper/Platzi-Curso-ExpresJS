@@ -1,0 +1,16 @@
+{
+  "name": "curso-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Santiago Montero",
+  "license": "MIT",
+  "description": "Curso express",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {}
+}
